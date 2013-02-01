@@ -1,4 +1,6 @@
-# The University of Lincoln Research Data Management Policy - DRAFT
+# The University of Lincoln Research Data Management Policy
+
+*Draft*
 
 1. The University of Lincoln recognises that the curation and sharing of research data is key to its mission to create knowledge. Research data is a key asset. Its correct management brings benefits to the university, its members and the public through greater opportunities for access and re-use.
 2. This policy sets out the university's expectations for the management of research data across all academic disciplines and in all forms. 
