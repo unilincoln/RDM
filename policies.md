@@ -9,7 +9,7 @@ Examples of Research Data policies include:
 1. The *draft* [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy):
     * *"This policy sets out the university's expectations for the management of research data across all academic disciplines and in all forms."*
 	
-	* It is not currently a formal policy of the University, but we expect it to be adopted in 2013
+	* It is not currently a formal policy of the University, but we expect it to be adopted in 2013.
 	
 	*[Other universities](http://www.dcc.ac.uk/resources/policy-and-legal/institutional-data-policies/uk-institutional-data-policies) have similar policies
 	
