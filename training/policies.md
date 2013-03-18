@@ -2,7 +2,7 @@
 
 Data you create may be affected by a more than one Research Data policy (government, funding body, or university). The terms of these polices will determine what your and the University's rights and responsibilities are over your data.
 
-* For advice on Research Data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
+* For advice on Research Data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/)
 
 Examples of Research Data policies include:
 
