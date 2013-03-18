@@ -1,4 +1,4 @@
-# Policies Affecting Your Research Data
+# Policies affecting your research data
 
 Data you create may be affected by a more than one Research Data policy (government, funding body, or university). The terms of these polices will determine what your and the University's rights and responsibilities are over your data.
 
