@@ -2,7 +2,7 @@
 
 Data you create may be affected by a more than one Research Data policy (government, funding body, or university). The terms of these polices will determine what your and the University's rights and responsibilities are over your data.
 
-*For advice on Research Data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).*
+* For advice on Research Data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
 
 Examples of Research Data policies include:
 
@@ -16,7 +16,7 @@ Examples of Research Data policies include:
 	* [Read more...](https://orbital.lincoln.ac.uk/rdm-policy)
 
 2. The Research Councils UK (RCUK) [Common Principles on Data Policy](http://lncn.eu/bqz3):
-    * "Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible in a timely and responsible manner that does not harm intellectual property."
+    * *"Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible in a timely and responsible manner that does not harm intellectual property."*
 	
 	* [Read more...](http://lncn.eu/bqz3)
 
@@ -26,13 +26,13 @@ Examples of Research Data policies include:
 	* Funders' policies have been [summarised in a table](http://lncn.eu/cz46) by the Digital Curation Centre
 	
 	* Policies vary from funder to funder, but tend to cover the following:
-        * ***Timeframes*** for describing your data and/or making it accessible
+        * **Timeframes** for describing your data and/or making it accessible
 		
-		* ***Data planning*** at the grant application stage and throughout the life of the data
+		* **Data planning** at the grant application stage and throughout the life of the data
 		
-		* ***Access*** to data through [OA](http://en.wikipedia.org/wiki/Open_access) publishing, data repositories, data sharing or reuse
+		* **Access** to data through [OA](http://en.wikipedia.org/wiki/Open_access) publishing, data repositories, data sharing or reuse
 		
-		* ***Long-term curation*** of your data: maintenance and preservation
+		* **Long-term curation**, preservation and maintenance of your data
 		
 	* The Engineering & Physical Sciences Research Council (EPSRC) requires *institutions* (not individual researchers) to develop a '[roadmap](http://www.epsrc.ac.uk/about/standards/researchdata/Pages/policyframework.aspx)' for research data management - the University of Lincoln submitted its EPSRC roadmap in April 2012
 	
