@@ -4,7 +4,7 @@ The following suite of training materials have been developed at the University 
 
 * For general advice on working with research data, please [contact the Orbital project](https://orbital.lincoln.ac.uk/contact)
 
-Please use the links below to read about different aspects of research data management:
+Please use the links below to read about the different aspects of research data management:
 
 1. [What is research data?](https://orbital.lincoln.ac.uk/training-what)
 2. [Policies affecting your research data](https://orbital.lincoln.ac.uk/training-policies)
