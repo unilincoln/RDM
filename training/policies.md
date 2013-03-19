@@ -12,6 +12,13 @@ Examples of Research Data policies include:
 	
 * It is not currently a formal policy of the University, but we expect it to be adopted in 2013
 
+* It should be considered alongside other university policies which may also affect your working with data, including:
+
+   * The [research ethics policy](https://portal.lincoln.ac.uk/C11/C8/ResearchEthicsPolicy/default.aspx) and research misconduct procedure
+   * IP (Intellectual Property) policy
+   * [ICT policies](https://portal.lincoln.ac.uk/C2/C5/ICTPolicies/default.aspx)
+   * staff contracts and disciplinary procedures
+
 * [Other universities](http://www.dcc.ac.uk/resources/policy-and-legal/institutional-data-policies/uk-institutional-data-policies) have similar policies
 	
 * [Read more...](https://orbital.lincoln.ac.uk/rdm-policy)
