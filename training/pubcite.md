@@ -25,4 +25,7 @@ The University of Lincoln provides two main tools which
 * [CKAN](http://ckan.lincoln.ac.uk/)
 * The [Lincoln Repository](http://eprints.lincoln.ac.uk/)
 
-Depending on your discipline, the nature of your research, and the type of data you hold, it may be more appropriate for you to host and publish your data using a third-party system. Please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/) for advice.
+Depending on your discipline, the nature of your research, and the type of data you hold, it may be more appropriate for you to host and publish your data using a third-party system. Please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/) for advice. A [Data Management Plan (DMP)](https://orbital.lincoln.ac.uk/training-dmp) can help you understand the best place to host and publish your data.
+
+### Licences for publishing research data
+

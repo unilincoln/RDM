@@ -10,6 +10,9 @@ Please use the links below to read about the different aspects of research data 
 2. [Policies affecting your research data](https://orbital.lincoln.ac.uk/training-policies)
 3. [Data search and discovery tools](https://orbital.lincoln.ac.uk/training-discovery)
 4. [Data publishing and citation](https://orbital.lincoln.ac.uk/training-pubcite)
-5. [Data Management Planning (DMP)](https://orbital.lincoln.ac.uk/training-dmp)
-6. [The research data lifecycle](https://orbital.lincoln.ac.uk/training-lifecycle)
-7. [Tools for working with your data](https://orbital.lincoln.ac.uk/training-tools)
+5. [Licences for sharing your data]
+6. [Data Management Planning (DMP)](https://orbital.lincoln.ac.uk/training-dmp)
+7. [The research data lifecycle](https://orbital.lincoln.ac.uk/training-lifecycle)
+8. [Tools for working with your data](https://orbital.lincoln.ac.uk/training-tools)
+9. [Workshops and training events](https://orbital.lincoln.ac.uk/training-workshops)
+10. [Help and support](https://orbital.lincoln.ac.uk/contact)
