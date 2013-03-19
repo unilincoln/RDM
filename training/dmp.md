@@ -18,7 +18,7 @@ DMPs are a useful tool to help you and your University (Research & Enterprise; t
 
 * Most of the major public research funders will require you to create a DMP at the grant application stage. Funders' policies on DMP have been [summarised](http://lncn.eu/est3) by the Digital Curation Centre
 
-* The Engineering and Physical Sciences Research Council (EPSRC) is unusual in that it does not require a DMP - although it does expect data to be preserved and shared, so the researcher / the University will still need to do carry out some internal planning to ensure this takes place correctly
+* The Engineering and Physical Sciences Research Council (EPSRC) is unusual in that it does not require a DMP at the grant application stage. However, it *does* expect data to be preserved and shared, so the researcher and the University will still need to do carry out some internal planning to ensure this is done correctly
 
 ### DMPOnline: [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/)
 
