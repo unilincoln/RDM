@@ -1,6 +1,10 @@
 # Introduction - research data training materials
 
-The following suite of training materials have been developed at the University of Lincoln by the [Orbital project](http://orbital.blogs.lincoln.ac.uk/) up to March 2013. They provide an overview of research data management concepts and practices, links to useful external resources, and specific information on using research data tools and services at Lincoln.
+The following suite of training materials have been developed at the University of Lincoln by the [Orbital project](http://orbital.blogs.lincoln.ac.uk/) up to March 2013. They provide an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln.
+
+* For general advice on working with research data, please [contact the Orbital project](https://orbital.lincoln.ac.uk/contact)
+
+Please use the links below to read about different aspects of research data management:
 
 1. [What is research data?](https://orbital.lincoln.ac.uk/training-what)
 2. [Policies affecting your research data](https://orbital.lincoln.ac.uk/training-policies)
