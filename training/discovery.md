@@ -20,11 +20,11 @@ DataCite is a not-for-profit organisation whose aim is to establish easier acces
 
 ### Figshare: [http://figshare.com/](http://figshare.com/)
 
-Figshare is a free, personal, social web service which allows researchers to publish all of their research outputs in seconds in an easily citable, sharable and discoverable manner. All data is persistently stored online under the most liberal Creative Commons licence. All research made publicly available gets allocated a DataCite DOI at point of publication, and figshare provides a tool for browsing and searching across all data stored within it.
+Figshare is a free, personal, social web service which allows researchers to publish all of their research outputs in seconds in an easily citable, sharable and discoverable manner. All data is persistently stored online under the most liberal [Creative Commons licence](http://creativecommons.org/licenses/). All research made publicly available gets allocated a DataCite DOI at point of publication, and figshare provides a tool for browsing and searching across all data stored within it.
 
 ### Registry of Research Data Repositories (re3data): [http://www.re3data.org/search/](http://www.re3data.org/search/)
 
-re3data.org is nother global registry of research data repositories, maintained by the [German Research Foundation)[http://en.wikipedia.org/wiki/Deutsche_Forschungsgemeinschaft} (*Deutsche Forschungsgemeinschaft*) and a number of research libraries and institutions in Germany. The registry uses icons to identify important characteristics of each data repository: access and licence conditions, technical standards, *etc.*
+re3data.org is another global registry of research data repositories, maintained by the [German Research Foundation](http://en.wikipedia.org/wiki/Deutsche_Forschungsgemeinschaft) (*Deutsche Forschungsgemeinschaft*) and a number of research libraries and institutions in Germany. The registry uses icons to identify important characteristics of each data repository: access and licence conditions, technical standards, *etc.*
 
 ### UK Data Archive: [http://data-archive.ac.uk/](http://data-archive.ac.uk/)
 
