@@ -15,3 +15,5 @@ The workshops cover:
 * Practical tools for looking after your data
 * Data publishing and citation
 * Where to go for help
+
+A copy of the slides used in the workshop are available to [download from this page](https://github.com/unilincoln/RDM/blob/master/presentations/managing_your_research_data_v01.PPT?raw=true) (Microsoft Powerpoint format).
