@@ -22,7 +22,7 @@ DataCite is a not-for-profit organisation whose aim is to establish easier acces
 
 Figshare is a free, personal, social web service which allows researchers to publish all of their research outputs in seconds in an easily citable, sharable and discoverable manner. All data is persistently stored online under the most liberal [Creative Commons licence](http://creativecommons.org/licenses/). All research made publicly available gets allocated a DataCite DOI at point of publication, and figshare provides a tool for browsing and searching across all data stored within it.
 
-#### NERC data centres: [http://www.nerc.ac.uk/research/sites/data/](http://www.nerc.ac.uk/research/sites/data/]
+#### NERC data centres: [http://www.nerc.ac.uk/research/sites/data/](http://www.nerc.ac.uk/research/sites/data/)
 
 The Natural Environment Research Council (NERC) hosts seven separate national data centres, each specialising in a different discipline of environmental / earth sciences data. NERC issues Digital Object Identifiers (DOIs) to datasets held in its data centres. Not all of the data centres can be searched directly.
 
