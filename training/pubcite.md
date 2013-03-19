@@ -2,7 +2,7 @@
 
 This page contains advice and guidance on publishing your research data, on making it openly accessible for re-use under licence, and on how you can ensure it is cited correctly. There are a number of benefits to making research data publicly accessible, and many research funders now mandate it.
 
-* For advice on data publishing and citation, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/), or email [eprints@lincoln.ac.uk](mailto:eprints@lincoln.ac.uk)
+> For advice on data publishing and citation, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/), or email [eprints@lincoln.ac.uk](mailto:eprints@lincoln.ac.uk)
 
 ### Research funders' requirements
 
