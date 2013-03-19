@@ -26,4 +26,4 @@ The DMPOnline tool helps you build and edit your Data Management Plan in line wi
 
 ### Data Asset Framework (DAF survey): [http://lncn.eu/efj8](http://lncn.eu/efj8)
 
-The DAF survey asks some higher-level questions about your research data. It is designed mainly to aid the University in understanding it's researchers' needs, but may also help you to think about the data you are collecting. The survey is based on a questionnaire that has been used across many universities in the UK. Data collected by the survey is primarily for internal use, but anonymised summaries of the data will be published in project reports.
+The DAF survey asks some higher-level questions about your research data. It is designed mainly to aid the University in understanding its researchers' needs, but may also help you to think about the data you are collecting. The survey is based on a questionnaire that has been used across many universities in the UK. Data collected by the survey is primarily for internal use, but anonymised summaries of the data will be published in project reports.
