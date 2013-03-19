@@ -1,6 +1,6 @@
 # Data search and discovery tools
 
-There are a number of online tools and services which you can use to find existing datasets available for re-use in your own research. It is important to understand the terms under which data has been published: see the section on licensing.
+There are a number of online tools and services which you can use to find existing datasets available for re-use in your own research. It is important to understand the terms under which data has been published: see the section on licensing. Advice on re-using existing data is [available from the Digital Curation Centre](http://www.dcc.ac.uk/training/train-trainer/disciplinary-rdm-training/access-use-and-reuse/access-use-and-reuse).
 
 * For advice on data search and discovery, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/)
 
@@ -29,5 +29,3 @@ re3data.org is nother global registry of research data repositories, maintained 
 ### UK Data Archive: [http://data-archive.ac.uk/](http://data-archive.ac.uk/)
 
 The UK's largest collection of digital research data in the Social Sciences and Humanities. Based at the [University of Essex](http://www.essex.ac.uk/), the UK Data Archive now includes the [Economic and Social Data Service](http://www.esds.ac.uk/) which hosts key national and international survey data and qualitative data.
-
-Advice on re-using existing data is [available from the Digital Curation Centre](http://www.dcc.ac.uk/training/train-trainer/disciplinary-rdm-training/access-use-and-reuse/access-use-and-reuse).
