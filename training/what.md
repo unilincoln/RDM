@@ -1,4 +1,4 @@
-# What do we mean by research data?
+# What is research data?
 
 When we talk about research "data", we are **not** just referring to quantitative, tabular, hard-scientific data. Research data is anything *"collected, observed, or created ~~in a digital form~~, for purposes of analysing to produce original research results"* ([University of Edinburgh](http://www.ed.ac.uk/schools-departments/information-services/services/research-support/data-library/data-repository/definitions)).
 
