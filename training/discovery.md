@@ -22,10 +22,14 @@ DataCite is a not-for-profit organisation whose aim is to establish easier acces
 
 Figshare is a free, personal, social web service which allows researchers to publish all of their research outputs in seconds in an easily citable, sharable and discoverable manner. All data is persistently stored online under the most liberal [Creative Commons licence](http://creativecommons.org/licenses/). All research made publicly available gets allocated a DataCite DOI at point of publication, and figshare provides a tool for browsing and searching across all data stored within it.
 
+### NERC data centres: [http://www.nerc.ac.uk/research/sites/data/](http://www.nerc.ac.uk/research/sites/data/]
+
+The Natural Environment Research Council (NERC) hosts seven separate national data centres, each specialising in a different discipline of environmental / earth sciences data. NERC issues Digital Object Identifiers (DOIs) to datasets held in its data centres. Not all of the data centres can be searched directly.
+
 ### Registry of Research Data Repositories (re3data): [http://www.re3data.org/search/](http://www.re3data.org/search/)
 
 re3data.org is another global registry of research data repositories, maintained by the [German Research Foundation](http://en.wikipedia.org/wiki/Deutsche_Forschungsgemeinschaft) (*Deutsche Forschungsgemeinschaft*) and a number of research libraries and institutions in Germany. The registry uses icons to identify important characteristics of each data repository: access and licence conditions, technical standards, *etc.*
 
 ### UK Data Archive: [http://data-archive.ac.uk/](http://data-archive.ac.uk/)
 
-The UK's largest collection of digital research data in the Social Sciences and Humanities. Based at the [University of Essex](http://www.essex.ac.uk/), the UK Data Archive now includes the [Economic and Social Data Service](http://www.esds.ac.uk/) which hosts key national and international survey data and qualitative data.
+The UK's largest collection of digital research data in the Social Sciences and Humanities. Based at the [University of Essex](http://www.essex.ac.uk/), the UK Data Archive now includes the [Economic and Social Data Service](http://www.esds.ac.uk/) which hosts key national and international survey data and qualitative data, and the [Secure Data Service](http://securedata.data-archive.ac.uk/) which provides secure access to data that are too detailed, sensitive or confidential to be made available under standard licences.
