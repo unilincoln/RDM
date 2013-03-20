@@ -14,11 +14,22 @@ Funders' policies have been [summarised in a table](http://lncn.eu/cz46) by the 
 
 ## Types of licences
 
-### Creative Commons (CC): [http://creativecommons.org/](http://creativecommons.org/)
+### 1. Creative Commons: [http://creativecommons.org/](http://creativecommons.org/)
+
+Creative Commons (CC) is a non-profit organization based in California. CC licences are a very popular method for authors, artists, and educators to license their work. All CC licences have quick, readable summaries in addition to the formal legal text. Each has a canonical URL (location on the Internet) and a reference to a CC licence can be included in a document in a machine-readable way.
+
+There are **six** main Creative Commons licences, all of which require **attribution** - *i.e.* that the person using your content cites / attributes you as the original creator of the work. (In addition to the six main licences there is also a ["CC0" (Creative Commons Zero)](http://creativecommons.org/publicdomain/zero/1.0/) licence for work dedicated entirely into the public domain: this would not normally be used for research data.)
+
+> ![Table of CC licences](https://github.com/unilincoln/RDM/blob/master/images/creative_commons.png?raw=true)
+> Hopkins, D. (2013) Creative Commons Infographic: Licenses Explained. *Technology Enhanced Learning Blog* [Online]. Available from: [http://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/](http://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/) [Accessed 20 March 2013]
 
 ### Open Data Commons: [http://opendatacommons.org/](http://opendatacommons.org/)
 
+Open Data Commons (ODC) licences were developed in 2007 as an alternative to Creative Commons. The ODC licences share much of the character of CC licences, but are written in terms that may be better suited to licensing research data. Unlike CC, Open Data Commons licences are specific about how the original creator should be cited / use of their data attributed.
+
 ### Open Government Licence: [http://www.nationalarchives.gov.uk/doc/open-government-licence/](http://www.nationalarchives.gov.uk/doc/open-government-licence/)
+
+
 
 ### Bespoke licences
 
@@ -27,15 +38,6 @@ Writing a bespoke licence for your data is not a trivial undertaking, and almost
 If you decide to do this, in the first instance you should consult with your organisation’s research office, commercialisation services team and/or legal department.
 
 ## How to license your data
-
-As well as the legal text, the licences all have quick clear summaries and a canonical URL for use in HTML, RDF and other code. A rights expression language is also --- machine readable
-
-There are six main Creative Commons licences
-
-All require attribution
-
-![Table of CC licences](https://github.com/unilincoln/RDM/blob/master/images/creative_commons.png?raw=true)
-> Hopkins, D. (2013) Creative Commons Infographic: Licenses Explained. *Technology Enhanced Learning Blog* [Online]. Available from: [http://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/](http://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/) Accessed 20 March 2013
 
 CKAN
 
