@@ -37,7 +37,7 @@ The Open Government Licence (OGL), released in 2010, is intended for UK public s
 
 While it is tempting to create your own custom / bespoke licence for your data, there are some pitfalls to doing so.
 
-Custom licences:
+Bespoke licences:
 
 * May cause unnecessary work for you, for the University, and for potential users of your data
 * May be more confusing and legally ambiguous than standard licences
