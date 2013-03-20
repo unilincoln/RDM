@@ -6,7 +6,7 @@ Data you create may be affected by a more than one research data policy (governm
 
 Examples of Research Data policies include:
 
-#### 1. The *draft* [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy):
+## 1. The *draft* [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy):
 
 * *"This policy sets out the university's expectations for the management of research data across all academic disciplines and in all forms."*
 	
@@ -23,13 +23,13 @@ Examples of Research Data policies include:
 	
 * [Read more...](https://orbital.lincoln.ac.uk/rdm-policy)
 
-#### 2. The Research Councils UK (RCUK) [Common Principles on Data Policy](http://lncn.eu/bqz3):
+## 2. The Research Councils UK (RCUK) [Common Principles on Data Policy](http://lncn.eu/bqz3):
 
 * *"Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible in a timely and responsible manner that does not harm intellectual property."*
 	
 * [Read more...](http://lncn.eu/bqz3)
 
-#### 3. Individual [research funders' policies](http://lncn.eu/cz46):
+## 3. Individual [research funders' policies](http://lncn.eu/cz46):
 
 * Most research funding bodies now have a Research Data policy which affects data created by research they fund
 	
