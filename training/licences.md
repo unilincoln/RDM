@@ -47,9 +47,9 @@ However, bespoke licences may be desirable or necessary if your data have signif
 
 ## How to license your data
 
-When you upload your research data to a [data repository tool](https://orbital.lincoln.ac.uk/training-tools) (such as [CKAN](http://ckan.lincoln.ac.uk/)), and/or when you share it using the tools the repository provides, there will usually be the opportunity for you to choose a licence for each dataset. These licences will become machine-readable alongside the data, which will help make your data more discoverable online.
+When you upload your research data to a [data repository tool](https://orbital.lincoln.ac.uk/training-tools) (such as [CKAN](http://ckan.lincoln.ac.uk/)), and/or when you [share it](https://orbital.lincoln.ac.uk/training-pubcite) using the tools the repository provides, there will usually be the opportunity for you to choose a licence for each dataset. These licences will become machine-readable alongside the data, which will help make your data more discoverable online.
 
-When you formally publish your data to the [Lincoln Repository](http://eprints.lincoln.ac.uk/), a licence will be attached to the metadata describing your data, alongside a formal identifier ([DOI](http://www.doi.org/)) which makes it easier for third-party users to cite you.
+When you [formally publish](https://orbital.lincoln.ac.uk/training-pubcite) your data to the [Lincoln Repository](http://eprints.lincoln.ac.uk/), a licence will be attached to the metadata describing your data, alongside a formal identifier ([DOI](http://www.doi.org/)) which makes it easier for third-party users to cite you.
 
 ## See also:
 
