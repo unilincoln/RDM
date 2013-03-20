@@ -4,7 +4,7 @@ As part of the [Orbital project](http://blogs.library.lincoln.ac.uk/), we are st
 
 Research data management is an important part of the research process, and a vital part of academic practice. These 90-minute workshops will include a presentation and discussion of what you should consider when creating, looking after, and sharing/publishing your research data.
 
-Postgraduate students can book a place on a workshop, online at:  [http://uolresearchdata.eventbrite.co.uk/](http://uolresearchdata.eventbrite.co.uk/)
+Postgraduate students can book a place on a workshop, online at:  **[http://uolresearchdata.eventbrite.co.uk/](http://uolresearchdata.eventbrite.co.uk/)**
 
 The workshops cover:
 
