@@ -12,7 +12,7 @@ Research funders increasingly expect grant-holders to develop and implement Data
 
 DMPs are a useful tool to help you and your University (Research & Enterprise; the Library; ICT Services) understand your data needs and requirements. More advice on policies and policy tools is [available from the Digital Curation Centre](http://www.dcc.ac.uk/resources/data-management-plans).
 
-> For advice on Data Management Planning (DMP), please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/)
+> For advice on Data Management Planning (DMP), please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
 
 #### Funders' requirements for Data Management Plans
 
