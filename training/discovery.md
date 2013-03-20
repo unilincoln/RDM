@@ -2,7 +2,7 @@
 
 There are a number of online tools and services which you can use to find existing datasets available for re-use in your own research. It is important to understand the terms under which data has been published. Advice on re-using existing data is [available from the Digital Curation Centre](http://www.dcc.ac.uk/training/train-trainer/disciplinary-rdm-training/access-use-and-reuse/access-use-and-reuse).
 
-> For advice on data search and discovery, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/).
+> For advice on data search and discovery, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/), or email [eprints@lincoln.ac.uk](mailto:eprints@lincoln.ac.uk)
 
 Examples of data discovery tools include:
 
