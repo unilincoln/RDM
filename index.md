@@ -21,7 +21,7 @@
 		
 		<p>The Orbital project is responsible for putting together the University's research data management policy. We're still working on finalising this, but if you want to be involved please let us know.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/policy" class="btn"><i class="icon-chevron-right"></i> Read the Policy</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/rdm-policy" class="btn"><i class="icon-chevron-right"></i> Read the Policy</a></p>
 	
 	</div>
 	
