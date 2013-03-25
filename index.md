@@ -21,7 +21,7 @@
 		
 		<p>The Orbital project is responsible for putting together the University's research data management policy. We're still working on finalising this, but if you want to be involved please let us know.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/contact" class="btn"><i class="icon-chevron-right"></i> Contact Us</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/policy" class="btn"><i class="icon-chevron-right"></i> Read the Policy</a></p>
 	
 	</div>
 	
@@ -29,9 +29,9 @@
 		
 		<h3><i class="icon-certificate"></i> Training</h3>
 	
-		<p>We're developing comprehensive training to help you make the most of your research data. At the moment we're still putting the training and documentation together, but if you want to be involved please let us know.</p>
+		<p>We're developing comprehensive training to help you make the most of your research data. Take a look at what we've got and learn more about RDM.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/contact" class="btn"><i class="icon-chevron-right"></i> Contact Us</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/training-introduction" class="btn"><i class="icon-chevron-right"></i> View Training</a></p>
 						
 	</div>
 			
