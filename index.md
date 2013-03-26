@@ -1,6 +1,6 @@
 <div class="hero-unit">
 <h1>Your Research. One Place.</h1>
-<p>The Researcher Dashboard is the place to get an overview and help manage of all your research.</p>
+<p>The Researcher Dashboard is the place to get an overview and help manage your research.</p>
 </div>
 
 <div class="row">
