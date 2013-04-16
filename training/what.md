@@ -18,7 +18,7 @@ Research data, according to this wider definition:
     
 ## Australian National Data Service guide
 
-This guide from the [ANDS](http://ands.org.au/) is intended for people in universities and other research institutions needing a definition of research data. It includes links to individual (australian) universities' definitions of research data, gives examples of what research data is *not*, and suggests researchers should ask themselves the question: *'what needs to be kept to validate the results of research?'*.
+This guide from the [ANDS](http://ands.org.au/) is intended for people in universities and other research institutions needing a definition of research data. It includes links to individual (Australian) universities' definitions, gives examples of what is *not* research data, and suggests researchers should ask themselves the question: *'what needs to be kept to validate the results of research?'*.
 
 The guide can be found at: [http://ands.org.au/guides/what-is-research-data.html](http://ands.org.au/guides/what-is-research-data.html)
 
@@ -26,4 +26,4 @@ The guide can be found at: [http://ands.org.au/guides/what-is-research-data.html
 
 This guide from the [University of Southampton](http://www.soton.ac.uk/) - aimed at PhD students -  introduces the forms data can take by showing five ways of looking at data, then presents some case studies of data usage in several disciplines in an attempt to illustrate the types of data you might encounter in your research.
 
-The guide can be downloaded from: [http://eprints.soton.ac.uk/](http://eprints.soton.ac.uk/)
+The guide can be downloaded from: [http://eprints.soton.ac.uk/338816/](http://eprints.soton.ac.uk/338816/)
