@@ -14,8 +14,7 @@ Research data, according to this wider definition:
 
 1. May be produced by and for any subject (*i.e.* not just the 'hard sciences')
 
-2. Applies irrespective of collection method, form of research, or format:
-    * Textual, numerical, multimedia, structured (XML, databases), software code, proprietary software formats ([University of So'ton](http://eprints.soton.ac.uk/338816/))
+2. Applies irrespective of collection method, form of research, or format (textual, numerical, multimedia, structured databases/XML, software code, proprietary software formats)
     
 ## Australian National Data Service guide
 
