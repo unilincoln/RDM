@@ -1,11 +1,7 @@
 # Tools for working with your data
 
-http://orbital.lincoln.ac.uk/researchtools
-Collaborative, versioned document tools (Wikis, Git, Subversion, Google Docs, http://blogs.lincoln.ac.uk)
-File storage and backup - H:\, I:\, Dropbox, Google Drive, external hard drives, USB sticks (danger!)
-File management and naming conventions
-Good: experiment1_results_20130122_v001_raw.xls
-Not so good: results1newUSETHISONE.xls
-What data should I keep? http://lncn.eu/aem5
-CKAN: http://ckan.lincoln.ac.uk/
-The Lincoln Repository: http://eprints.lincoln.ac.uk/
+Each research discipline will have specialist software tools appropriate to its own needs. For general Research Data Management activities, a number of tools are provided and recommended (in some cases, *required*) by the University of Lincoln.
+
+> For assistance with software formats and tools for working with your data, please contact [ICT Services](http://support.lincoln.ac.uk/).
+
+A list of tools is [available on this page](https://orbital.lincoln.ac.uk/researchtools).
