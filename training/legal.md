@@ -16,7 +16,7 @@ You can acceess the UK Data Archive guide at: [http://www.data-archive.ac.uk/cre
 
 ## Freedom of Information (FoI) legislation and research data
 
-The relationship between research data and the Freedom of Information Act (FoIA) can be complex. You should seek specialist advice from [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/) if you are unsure.
+The relationship between research data and the Freedom of Information Act (FoIA) can be complex. You should seek specialist advice from the [Registrar's Executive Officer and Information Compliance Manager](http://staff.lincoln.ac.uk/home?q=Information%20Compliance).
 
 In 2010, the [JISC](http://www.jisc.ac.uk/) published advice to researchers concerned about requests for their research data under either Freedom of Information legislation, or Environmental Information Regulations, all of which came into force in 2005. The publication can be downloaded from: [http://www.jisc.ac.uk/foiresearchdata](http://www.jisc.ac.uk/foiresearchdata)
 
