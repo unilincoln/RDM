@@ -29,11 +29,15 @@ All projects funded by the UK Research Councils are mandated to make research da
 	
 * You can read the RCUK principles in full, at: [http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx](http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx)
 
-## 3. Individual [research funders' policies](http://lncn.eu/cz46):
+## 3. Individual [research funders' policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies):
 
-Most research funding bodies now have a Research Data policy which affects data created by research they fund. 
+Most research funding bodies now have a Research Data policy which affects data created by research projects they have funded. You should read your funding agreement carefully so that you are clear about your obligations.
 	
-Funders' policies have been [summarised in a table](http://lncn.eu/cz46) by the Digital Curation Centre.
+Funders' policies have been [summarised in a table](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies) by the Digital Curation Centre.
+
+![Overview of funders' data policies](https://github.com/unilincoln/RDM/blob/master/images/dcc_funders_table.png?raw=true)
+
+[Overview of funders' data policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies), [CC-BY](http://creativecommons.org/licenses/by/2.5/scotland/)
 	
 Policies vary from funder to funder, but tend to cover the following:
 
