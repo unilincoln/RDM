@@ -8,7 +8,7 @@ Examples of data discovery tools include:
 
 ## 1. British Library: [http://www.bl.uk/datasets](http://www.bl.uk/datasets)
 
-The BL's Research Datasets programme is focused on the challenges of managing ever increasing volumes of data, working towards its long-term preservation, and establishing standards for data citation. Datasets are [searchable](http://explore.bl.uk/primo_library/libweb/action/search.do?ct=facet&fctN=facet_rtype&fctV=datasets&dscnt=1&scp.scps=scope%3A(BLCONTENT)&frbg=&tab=local_tab&srt=rank&ct=search&mode=Basic&dum=true&tb=t&indx=1&vl(freeText0)=dat*&fn=search&vid=BLVU1) through the BL's "explore" tool, and advice on finding research data is available though their [website](http://www.bl.uk/reshelp/experthelp/science/sciencetechnologymedicinecollections/researchdatasets/datasetdiscovery.html).
+The BL's Research Datasets programme is focused on the challenges of managing ever-increasing volumes of data, working towards its long-term preservation, and establishing standards for data citation. Datasets are [searchable](http://explore.bl.uk/primo_library/libweb/action/search.do?ct=facet&fctN=facet_rtype&fctV=datasets&dscnt=1&scp.scps=scope%3A(BLCONTENT)&frbg=&tab=local_tab&srt=rank&ct=search&mode=Basic&dum=true&tb=t&indx=1&vl(freeText0)=dat*&fn=search&vid=BLVU1) through the BL's "explore" tool, and advice on finding research data is available though their [website](http://www.bl.uk/reshelp/experthelp/science/sciencetechnologymedicinecollections/researchdatasets/datasetdiscovery.html).
 
 ## 2. Databib: [http://databib.org/](http://databib.org/)
 
