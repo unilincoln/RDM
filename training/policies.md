@@ -1,31 +1,33 @@
 # Policies affecting your research data
 
-Data you create may be affected by a more than one research data policy (government, funding body, or university). The terms of these polices will determine what your and the University's rights and responsibilities are over your data. More advice on policies and policy tools is [available from the Digital Curation Centre](http://www.dcc.ac.uk/resources/policy-and-legal/policy-tools-and-guidance/policy-tools-and-guidance).
+Data you create may be affected by more than one research data policiy (government, funding body, or university). The terms of these polices will determine what your rights and responsibilities (and the University's) are over your data. More advice on policies and policy tools is [available from the Digital Curation Centre](http://www.dcc.ac.uk/resources/policy-and-legal/policy-tools-and-guidance/policy-tools-and-guidance).
 
 > For advice on research data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
 
 Examples of Research Data policies include:
 
-## 1. The *draft* [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy):
+## 1. The [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy):
 
 > *"This policy sets out the university's expectations for the management of research data across all academic disciplines and in all forms."*
 	
 It is not currently a formal policy of the University, but we expect it to be adopted in 2013. It should be considered alongside other university policies which may also affect your working with data, including:
 
 * The [research ethics policy](https://portal.lincoln.ac.uk/C11/C8/ResearchEthicsPolicy/default.aspx) and research misconduct procedure
-* IP (Intellectual Property) policy
+* [IP (Intellectual Property) policy](https://portal.lincoln.ac.uk/C1/C1/IP/default.aspx)
 * [ICT policies](https://portal.lincoln.ac.uk/C2/C5/ICTPolicies/default.aspx)
 * staff contracts and disciplinary procedures
 
 [Other universities](http://www.dcc.ac.uk/resources/policy-and-legal/institutional-data-policies/uk-institutional-data-policies) have similar policies.
 	
-* You can read the complete *draft*  University of Lincoln Research Data Management Policy at: [https://orbital.lincoln.ac.uk/rdm-policy](https://orbital.lincoln.ac.uk/rdm-policy)
+* You can read the complete University of Lincoln Research Data Management Policy at: [https://orbital.lincoln.ac.uk/rdm-policy](https://orbital.lincoln.ac.uk/rdm-policy)
 
-## 2. The Research Councils UK (RCUK) [Common Principles on Data Policy](http://lncn.eu/bqz3):
+## 2. The Research Councils UK (RCUK) [Common Principles on Data Policy](http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx):
+
+All projects funded by the UK Research Councils are mandated to make research data publicly available, wherever possible, after a certain period. The RCUK principles set out the high-level justification for this policy.
 
 > *"Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible in a timely and responsible manner that does not harm intellectual property."*
 	
-* [Read more...](http://lncn.eu/bqz3)
+* You can read the RCUK principles in full, at: [http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx](http://www.rcuk.ac.uk/research/Pages/DataPolicy.aspx)
 
 ## 3. Individual [research funders' policies](http://lncn.eu/cz46):
 
