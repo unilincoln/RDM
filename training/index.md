@@ -13,7 +13,7 @@ Please use the links below to read about the different aspects of research data 
 ## 5. [Data search and discovery tools](https://orbital.lincoln.ac.uk/training-discovery)
 ## 6. [Data storage and security](https://orbital.lincoln.ac.uk/training-storage)
 ## 7. [Legal and ethical issues](https://orbital.lincoln.ac.uk/training-legal)
-## 8. [Tools for working with your data](https://orbital.lincoln.ac.uk/training-tools)
+## 8. [Tools for working with your data](https://orbital.lincoln.ac.uk/researchtools)
 ## 9. [Data publishing and citation](https://orbital.lincoln.ac.uk/training-pubcite)
 ## 10. [Licences for sharing your data](https://orbital.lincoln.ac.uk/training-licences)
 ## 11. [Data curation and preservation](https://orbital.lincoln.ac.uk/training-preservation)
