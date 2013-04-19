@@ -8,17 +8,11 @@ This page contains advice and guidance on publishing your research data, on maki
 
 Complex requirements of the major public research funders (covering publications, metadata about your data, and the data itself):
 
-Most research funding bodies now have Research Data policies which oblige reseachers to provide some level of public access to data arising from research projects they have funded. You should read your funding agreement carefully so that you are clear about your obligations.
-	
-Funders' policies have been [summarised in a table](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies) by the Digital Curation Centre.
-
-![Overview of funders' data policies](https://github.com/unilincoln/RDM/blob/master/images/dcc_funders_table.png?raw=true)
-
-[Overview of funders' data policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies), [CC-BY](http://creativecommons.org/licenses/by/2.5/scotland/)
+Most research funding bodies now have Research Data policies which oblige reseachers to provide some level of public access to data arising from research projects they have funded. You should read your funding agreement carefully so that you are clear about your obligations. Funders' policies have been [summarised in a table](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies) by the Digital Curation Centre.
 
 > "A significant number of research funders now require that data produced in the course of the research they fund should be made available for other researchers to discover, examine and build upon. The rationale given by UK funders is that opening up the data allows for new knowledge to be discovered through comparative studies, data mining and so on; it also allows greater scrutiny of how research conclusions have been reached, potentially driving up research quality. Some journals are taking a similar stance, requiring that authors deposit their supporting data either with the journal itself or with a recognised data repository."
 
-Ball, A. (2012). ‘How to License Research Data’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: http://www.dcc.ac.uk/resources/how-guides
+Ball, A. (2012) How to License Research Data, *DCC How-to Guides*. Edinburgh: Digital Curation Centre. Available from [http://www.dcc.ac.uk/resources/how-guides](http://www.dcc.ac.uk/resources/how-guides)
 
 ## Benefits to sharing/publishing
 
