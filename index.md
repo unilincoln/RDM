@@ -1,6 +1,7 @@
 <div class="hero-unit">
 <h1>Your Research. One Place.</h1>
-<p>The Researcher Dashboard provides an overview of your research projects, publication and data.</p>
+<p>The Researcher Dashboard provides an overview of your research projects, publication and data.
+<br><a class="btn" href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F"><i class="icon-chevron-right"></i> Sign in</a></p>
 </div>
 
 <div class="row">
@@ -9,7 +10,7 @@
 
 		<h3><i class="icon-wrench"></i> Tools</h3>
 		
-		<p>Orbital includes a suite of tools designed to help you plan, store and manage your research data. Take a look at the list of things we're working on.</p>
+		<p>Orbital includes a suite of tools designed to help you plan, store and manage your research data. Take a look at the list of things we're working on.However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides access to a number of such tools which are recommended (in some cases <em>required</em>) by the University of Lincoln.</p>
 		
 		<p><a href="http://orbital.lincoln.ac.uk/researchtools" class="btn"><i class="icon-chevron-right"></i> View the Tools</a></p>
 		

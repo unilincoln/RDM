@@ -84,7 +84,7 @@ However, there are a number of applications which will be of general use during 
 		
 		<p>Blogs are the recommended tool to set up a research project website, be that in the form of a traditional 'journal-like' blog, a website explaining what you're doing, a private lab notebook or more. You can give other members of your research team the ability to add, edit and approve content, and there's even a social network built in to allow discussion of your work.</p>
 		
-		<p><a class="btn" href="http://blogs.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to the blogs</a></p>
+		<p><a class="btn" href="http://blogs.lincoln.ac.uk/"><i class="icon-chevron-right"></i> Go to the blogs</a></p>
 		
 	</div>
 
