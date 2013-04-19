@@ -26,7 +26,7 @@ However, there are a number of applications which will be of general use during 
 		
 		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln. Workshops are offered to staff through the HR training programme.</p>
 		
-		<p><a class="btn" href="https://orbital.lincoln.ac.uk/training-introduction"><i class="icon-chevron-right"></i> Go to the training materials</a></p>
+		<p><a class="btn" href="https://orbital.lincoln.ac.uk/training-introduction"><i class="icon-chevron-right"></i> Go to training</a></p>
 		
 	</div>
 	

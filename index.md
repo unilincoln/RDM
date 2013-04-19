@@ -10,19 +10,19 @@
 
 		<h3><i class="icon-wrench"></i> Tools</h3>
 		
-		<p>This page provides access to a number of such tools which are recommended (in some cases <em>required</em>) by the University of Lincoln.</p>
+		<p>The Researcher Dashboard provides access to a number of tools which can help you in the planning, research, and publication stages of your work.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/researchtools" class="btn"><i class="icon-chevron-right"></i> View the Tools</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/researchtools" class="btn"><i class="icon-chevron-right"></i> View the tools</a></p>
 		
 	</div>
 			
 	<div class="span4">
 
-		<h3><i class="icon-file"></i> Policies</h3>
+		<h3><i class="icon-file"></i> Policy</h3>
 		
-		<p>The Orbital project is responsible for putting together the University's research data management policy. We're still working on finalising this, but if you want to be involved please let us know.</p>
+		<p>Many UK universities are adopting policies which set out their expectations for the management of research data across all academic disciplines and in all forms. Here is Lincoln's policy.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/rdm-policy" class="btn"><i class="icon-chevron-right"></i> Read the Policy</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/rdm-policy" class="btn"><i class="icon-chevron-right"></i> Read the policy</a></p>
 	
 	</div>
 	
@@ -30,9 +30,9 @@
 		
 		<h3><i class="icon-certificate"></i> Training</h3>
 	
-		<p>We're developing comprehensive training to help you make the most of your research data. Take a look at what we've got and learn more about RDM.</p>
+		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln.</p>
 		
-		<p><a href="http://orbital.lincoln.ac.uk/training-introduction" class="btn"><i class="icon-chevron-right"></i> View Training</a></p>
+		<p><a href="http://orbital.lincoln.ac.uk/training-introduction" class="btn"><i class="icon-chevron-right"></i> Go to training</a></p>
 						
 	</div>
 			
