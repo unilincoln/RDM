@@ -1,6 +1,6 @@
 # Licences for sharing your data
 
-All research data that you share or publish should have an appropriate licence applied. This makes it clear to third parties what they are entitled to do with your data, and how you must be cited / credited for its re-use. Releasing data without explicit terms of use can lead to confusion and is counter-productive: confusingly- or poorly-licenced data is less likely to be used to further new research. More advice on licensing is [available from the Digital Curation Centre](http://www.dcc.ac.uk/resources/how-guides/license-research-data).
+All research data that you share or publish should have an appropriate licence applied. This makes it clear to third parties what they are entitled to do with your data, and how you must be cited / credited for its re-use. Releasing data without explicit terms of use can lead to confusion and is counter-productive: poorly-licenced data is less likely to be used to further new research.
 
 > For advice on licences, Intellectual Property (IP) and your data, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
 
@@ -8,17 +8,15 @@ All research data that you share or publish should have an appropriate licence a
 
 You can only apply a licence to your data if you are entitled to do so in the first place - if you are the **rights holder** - or if the rights holder has granted you the right to licence data on their behalf. This means that it is important to resolve any Intellectual Property (IP) questions or concerns before you share / publish any data.
 
-Before you release data under a licence, you should find out whether you are obliged or encouraged to use a specific licence as a [condition of funding or of local policy](https://orbital.lincoln.ac.uk/training-policies), or as a result of your choice of [data publishing tool](https://orbital.lincoln.ac.uk/training-policies).
-
-Funders' policies have been [summarised in a table](http://lncn.eu/cz46) by the Digital Curation Centre.
+Before you release data under a licence, you should find out whether you are obliged or encouraged to use a specific licence as a [condition of funding or of local policy](https://orbital.lincoln.ac.uk/training-policies). More advice on licensing is [available from the DCC](http://www.dcc.ac.uk/resources/how-guides/license-research-data).
 
 ## Types of licences
 
 ### 1. [Creative Commons](http://creativecommons.org/)
 
-Creative Commons (CC) is a non-profit organization based in California. CC licences have been a very popular method for authors, artists, and educators to license their work since 2002. All CC licences have quick, readable summaries in addition to the formal legal text. Each has a canonical URL (location on the Internet) and a reference to a CC licence can be included in a document in a machine-readable way.
+Creative Commons (CC) is an international non-profit organization. CC licences have been a very popular method for authors, artists, and educators to license their work since 2002. All CC licences have quick, readable summaries in addition to the formal legal text. Each has a canonical URL (location on the Internet), and a reference to a CC licence can be included in a document in a machine-readable way.
 
-There are **six** main Creative Commons licences, all of which require **attribution** - *i.e.* that the person using your content cites / attributes you as the original creator of the work. (In addition to the six main licences there is also a ["CC0" (Creative Commons Zero)](http://creativecommons.org/publicdomain/zero/1.0/) licence for work dedicated entirely into the public domain: this would not normally be used for research data.)
+There are **six** main Creative Commons licences, all of which require **attribution** - *i.e.* that the person using your content cites / attributes you as the original creator of the work. In addition to the six main licences there is also a ["CC0" (Creative Commons Zero)](http://creativecommons.org/publicdomain/zero/1.0/) licence for work dedicated entirely into the public domain: this would not normally be used for research data.
 
 Lots of information on Creative Commons can be found at: [http://creativecommons.org/](http://creativecommons.org/)
 
@@ -27,7 +25,7 @@ Lots of information on Creative Commons can be found at: [http://creativecommons
 
 ### 2. [Open Data Commons](http://opendatacommons.org/)
 
-Open Data Commons (ODC) licences were developed in 2007 as an alternative to Creative Commons. The ODC licences share much of the character of CC licences, but are written in terms that may be better suited to licensing research data. Unlike CC, Open Data Commons licences are specific about how the original creator should be cited / use of their data attributed. More information on Open Data Commons is available at: [http://opendatacommons.org/](http://opendatacommons.org/)
+Open Data Commons (ODC) licences were developed in 2007 as an alternative to Creative Commons. The ODC licences share much of the character of CC licences, but are written in terms that may be better suited to licensing research data. Unlike CC, Open Data Commons licences are specific about how the original creator should be cited, and use of their data attributed. More information on Open Data Commons is available at: [http://opendatacommons.org/](http://opendatacommons.org/)
 
 ### 3. [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/)
 
@@ -47,7 +45,7 @@ However, bespoke licences may be desirable or necessary if your data have signif
 
 ## How to license your data
 
-When you upload your research data to a [data repository tool](https://orbital.lincoln.ac.uk/training-tools) (such as [CKAN](http://ckan.lincoln.ac.uk/)), and/or when you [share it](https://orbital.lincoln.ac.uk/training-pubcite) using the tools the repository provides, there will usually be the opportunity for you to choose a licence for each dataset. These licences will become machine-readable alongside the data, which will help make your data more discoverable online.
+When you upload your research data to a [data repository tool](https://orbital.lincoln.ac.uk/researchtools) (such as [CKAN](http://ckan.lincoln.ac.uk/)), and/or when you [share it](https://orbital.lincoln.ac.uk/training-pubcite) using the tools the repository provides, there will usually be the opportunity for you to choose a licence for each dataset. These licences will become machine-readable alongside the data, which will help make your data more discoverable online.
 
 When you [formally publish](https://orbital.lincoln.ac.uk/training-pubcite) your data to the [Lincoln Repository](http://eprints.lincoln.ac.uk/), a licence will be attached to the metadata describing your data, alongside a formal identifier ([DOI](http://www.doi.org/)) which makes it easier for third-party users to cite you.
 
