@@ -1,8 +1,8 @@
 # <i class="icon-wrench"></i> Research Tools
 
-The University of Lincoln wishes to support researchers by providing you with appropriate software tools in order to undertake your research. We recognise that each research discipline will have specialist software tools appropriate to its own needs. However, there are a number of software applications which are be of general use during the planning, research, and publication stages of your work, irrespective of research discipline.
+The University of Lincoln wishes to support researchers by providing you with appropriate software tools in order to undertake your research. We recognise that each research discipline will have specialist tools appropriate to its own needs.
 
-This page lists a number of tools, use of which is recommended (in some cases, *required*) by the University of Lincoln.
+However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides accessa number of such tools, use of which is recommended (in some cases, *required*) by the University of Lincoln.
 
 ## <i class="icon-check"></i> Before You Start
 		
