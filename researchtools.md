@@ -62,7 +62,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h4>Researcher Dashboard</h4>
 		
-		<p>By <a href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F">signing in</a> to this site, you can see an overview of your research activity at the University of Lincoln, including funded projects recorded in the AMS. You can also record details of <em>un</em>funded projects, edit your staff profile and research interests, see details of publications held in the Lincoln Repository.</p>
+		<p>By <a href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F">signing in</a> to this site, you can see an overview of your research activity at the University of Lincoln, including funded projects recorded in the AMS. You can also record details of <em>un</em>funded projects, edit your staff profile and research interests, and see details of publications held in the Lincoln Repository.</p>
 		
 		<p><a class="btn" href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F"><i class="icon-chevron-right"></i> Sign in</a></p>
 		
@@ -72,7 +72,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h4>CKAN</h4>
 		
-		<p>CKAN is being provided as part of the Orbital project to catalogue and archive your research data. Once your data is in CKAN it's easily citable by others, as well as being made more visible.</p>
+		<p>CKAN is a platform for managing and publishing data. It can act as an SQL data store, a file repository, and a data catalogue. Once your data is in CKAN you can provide access where appropriate, and it will become easily citable. This access and citation may be required by your research funder.</p>
 		
 		<p><a class="btn" href="https://ckan.lincoln.ac.uk/"><i class="icon-chevron-right"></i> Go to CKAN</a> <a href="/contact" class="btn"><i class="icon-chevron-right"></i> Contact us about CKAN</a></p>
 		
@@ -82,7 +82,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h4>Blogs</h2>
 		
-		<p>The University's blogs system is the best place for you to record what you're working on, be that in the form of a traditional 'journal-like' blog, a website explaining what you're doing, a private lab notebook or more. You can give other members of your research team the ability to add, edit and approve content, and there's even a social network built in to allow discussion of your work.</p>
+		<p>Blogs are the recommended tool to set up a research project website, be that in the form of a traditional 'journal-like' blog, a website explaining what you're doing, a private lab notebook or more. You can give other members of your research team the ability to add, edit and approve content, and there's even a social network built in to allow discussion of your work.</p>
 		
 		<p><a class="btn" href="http://blogs.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to the blogs</a></p>
 		
