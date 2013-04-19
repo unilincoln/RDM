@@ -70,7 +70,7 @@ However, there are a number of applications which will be of general use during 
 
 	<div class="span4">
 	
-		<h4>CKAN</h4>
+	<h4>CKAN</h4>
 		
 		<p>CKAN is a platform for managing and publishing data. It can act as an SQL data store, a file repository, and a data catalogue. Once your data is in CKAN you can provide access where appropriate, and it will become easily citable. This access and citation may be required by your research funder.</p>
 		
@@ -98,7 +98,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h2><i class="icon-folder-open"></i> When You're Done</h2>
 		
-		<p>Research data management doesn't end when your project is finished, with research councils increasingly demanding long-term preservation of information. These tools make sure that what you've achieved doesn't get lost, as well as improving the visibility of your work.</p>
+		<p>Research data management doesn't end when your project is finished. The Research Councils increasingly demand long-term preservation of information. These tools make sure your work is preserved and disseminated.</p>
 	
 	</div>
 			
@@ -108,11 +108,21 @@ However, there are a number of applications which will be of general use during 
 
 	<div class="span12">
 	
-		<h4>ePrints</h4>
+		<h4>The Lincoln Repository</h4>
 		
-		<p>ePrints is the University's publications repository, where your research outputs can be archived for easy citation in the future.</p>
+		<p>The Lincoln Repository is used to record details of <em>all</em> University research outputs: articles, conference papers, <em>etc.</em>. The University requires all outputs to be recorded here, and the Repository is used to report (internally and externally) on research activity. It also populates your staff profile on the web with a list of your publications. An Open Access (OA) copy of each paper can be deposited for each of your outputs: this helps improve visibility and citation of your work, and is required by all the major research funding bodies.</p>
 		
-		<p><a class="btn" href="http://eprints.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to ePrints</a></p>
+		<p><a class="btn" href="http://eprints.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to the Lincoln Repository</a></p>
+		
+	</div>
+
+	<div class="span4">
+	
+		<h4>Researcher Dashboard</h4>
+		
+		<p>The Researcher Dashboard can be used to formally deposit and publish your research data for long-term storage and curation. This may be required by your funder. Every dataset deposited in this way will receive a Digital Object Identifier (DOI) for permanent citation.</p>
+		
+		<p><a class="btn" href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F"><i class="icon-chevron-right"></i> Sign in</a></p>
 		
 	</div>
 	
