@@ -98,7 +98,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h2><i class="icon-folder-open"></i> When You're Done</h2>
 		
-		<p>Research data management doesn't end when your project is finished. The Research Councils increasingly demand long-term preservation of information. These tools make sure your work is preserved and disseminated.</p>
+		<p>Research data management doesn't end when your project is finished. The Research Councils increasingly demand long-term curation of, and access to, research information. These tools make sure your work is preserved and disseminated.</p>
 	
 	</div>
 			
