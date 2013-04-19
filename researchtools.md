@@ -106,7 +106,7 @@ However, there are a number of applications which will be of general use during 
 
 <div class="row">
 
-	<div class="span12">
+	<div class="span4">
 	
 		<h4>The Lincoln Repository</h4>
 		
