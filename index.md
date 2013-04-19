@@ -10,7 +10,7 @@
 
 		<h3><i class="icon-wrench"></i> Tools</h3>
 		
-		<p>Orbital includes a suite of tools designed to help you plan, store and manage your research data. Take a look at the list of things we're working on.However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides access to a number of such tools which are recommended (in some cases <em>required</em>) by the University of Lincoln.</p>
+		<p>This page provides access to a number of such tools which are recommended (in some cases <em>required</em>) by the University of Lincoln.</p>
 		
 		<p><a href="http://orbital.lincoln.ac.uk/researchtools" class="btn"><i class="icon-chevron-right"></i> View the Tools</a></p>
 		
