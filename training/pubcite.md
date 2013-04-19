@@ -6,7 +6,19 @@ This page contains advice and guidance on publishing your research data, on maki
 
 ## Research funders' requirements
 
-Complex requirements of the major public research funders (covering publications, metadata about your data, and the data itself): http://lncn.eu/cz46
+Complex requirements of the major public research funders (covering publications, metadata about your data, and the data itself):
+
+Most research funding bodies now have Research Data policies which oblige reseachers to provide some level of public access to data arising from research projects they have funded. You should read your funding agreement carefully so that you are clear about your obligations.
+	
+Funders' policies have been [summarised in a table](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies) by the Digital Curation Centre.
+
+![Overview of funders' data policies](https://github.com/unilincoln/RDM/blob/master/images/dcc_funders_table.png?raw=true)
+
+[Overview of funders' data policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies), [CC-BY](http://creativecommons.org/licenses/by/2.5/scotland/)
+
+> "A significant number of research funders now require that data produced in the course of the research they fund should be made available for other researchers to discover, examine and build upon. The rationale given by UK funders is that opening up the data allows for new knowledge to be discovered through comparative studies, data mining and so on; it also allows greater scrutiny of how research conclusions have been reached, potentially driving up research quality. Some journals are taking a similar stance, requiring that authors deposit their supporting data either with the journal itself or with a recognised data repository."
+
+Ball, A. (2012). ‘How to License Research Data’. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: http://www.dcc.ac.uk/resources/how-guides
 
 ## Benefits to sharing/publishing
 
@@ -14,7 +26,7 @@ Complex requirements of the major public research funders (covering publications
 * Discovery and collaboration, new uses
 * Increased citations and evidence of impact
 
-A significant number of research funders now require that data produced in the course of the research they fund should be made available for other researchers to discover, examine and build upon. The rationale given by UK funders is that opening up the data allows for new knowledge to be discovered through comparative studies, data mining and so on; it also allows greater scrutiny of how research conclusions have been reached, potentially driving up research quality.[1] Some journals are taking a similar stance, requiring that authors deposit their supporting data either with the journal itself or with a recognised data repository.[2]
+
 
 There are many additional reasons why releasing data can be in a researcher’s interests.[3],[4] The discipline of working up data for eventual release helps in ensuring that a full and clear record is preserved of how the conclusions were reached from the data, protecting the researcher from potential challenges. A culture of openness deters fraud, encourages learning from mistakes as well as from successes, and breaks down barriers to interdisciplinary and ‘citizen science’ research. The availability of the data, alongside associated tools and protocols, increases the efficiency of research by reducing both data collection costs and the possibility of duplication. It also has the potential to increase the impact of the research, not only academically,[5] but also economically and socially.
 
