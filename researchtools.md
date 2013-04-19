@@ -2,44 +2,44 @@
 
 The University of Lincoln wishes to support researchers by providing you with appropriate software tools in order to undertake your research. We recognise that each research discipline will have specialist tools appropriate to its own needs.
 
-However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides accessa number of such tools, use of which is recommended (in some cases, *required*) by the University of Lincoln.
+However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides access to a number of such tools which are recommended (in some cases *required*) by the University of Lincoln.
 
 ## <i class="icon-check"></i> Before You Start
 		
-<p>Before you start working on a research project, even before you submit a bid, you should consider how you're going to manage your research data. We recommend taking a look at the following tools and resources to help you understand and plan for managing data.</p>
+<p>Before you start working on a research project, even before you submit a bid for funding, you should consider how you're going to manage your research data. We recommend taking a look at the following tools and resources to help you understand and plan your project.</p>
 
 <div class="row">
 
 	<div class="span4">
 	
-		<h4>DMP Online</h4>
-		
-		<p>DMP Online helps you build and edit your data management plan in line with the requirements of major UK funders.</p>
-		
-		<p><a class="btn" href="https://dmponline.dcc.ac.uk/"><i class="icon-chevron-right"></i> Go to DMP Online</a></p>
-		
-	</div>
-	
-	<div class="span4">
-	
 		<h4>Awards Management System</h4>
 		
-		<p>The University's AMS helps you improve the visibility of your funding within the University, as well as allowing Research and Enterprise to offer your bid the best support that they can.</p>
+		<p>If you are applying for funding for your project, you are required to use the University's Awards Management System (AMS) to construct, record and budget the details of your project. For unfunded projects, use of the AMS is not required. For help with the AMS, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).</p>
 		
 		<p><a class="btn" href="https://ams.lincoln.ac.uk/"><i class="icon-chevron-right"></i> Go to the AMS</a></p>
 		
 	</div>
-	
+
 	<div class="span4">
 	
-		<h4>Background Reading <small>(Work In Progress)</small></h4>
+		<h4>Research Data Training</h4>
 		
-		<p>Understanding why research data management is important &ndash; as well as the best practices around it &ndash; can be difficult at first. Our reading list is here to help you to find out more.</p>
+		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln. Workshops are offered to academic staff through the HR training programme.</p>
 		
-		<p><a class="btn" href="http://lists.library.lincoln.ac.uk/lists/A19500A5-CFCD-41EF-A7BE-5A0E212B2A85.html"><i class="icon-chevron-right"></i> Go to the Reading List</a></p>
+		<p><a class="btn" href="https://orbital.lincoln.ac.uk/training-introduction"><i class="icon-chevron-right"></i> Go to the training materials</a></p>
 		
 	</div>
 	
+	<div class="span4">
+	
+		<h4>Data Management Planning (DMP)</h4>
+		
+		<p>Research funders increasingly expect grant-holders to develop and implement Data Management Plans (DMPs). The *DMPOnline* tool helps you build and edit your data management plan in line with the requirements of major UK funders.</p>
+		
+		<p><a class="btn" href="https://dmponline.dcc.ac.uk/"><i class="icon-chevron-right"></i> Go to DMPOnline</a> <a class="btn" href="https://dmponline.dcc.ac.uk/"><i class="icon-chevron-right"></i>Learn more &hellip;</a></p>
+		
+	</div>
+			
 </div>
 
 <hr>
