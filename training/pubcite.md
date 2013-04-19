@@ -16,20 +16,18 @@ Most research funding bodies now have Research Data policies which oblige reseac
 
 ## Benefits to sharing/publishing
 
-There are many additional reasons why releasing data can be in a researcher’s interests.
+There are many additional reasons why releasing data can be in a researcher's interests:
 
-* Supports research integrity and verification
-* Discipline of openness encourages clear and unambiguous practice
-* Discovery and collaboration, new uses
-* Increased citations and evidence of impact
+1. Open access to data supports research integrity and verification of results; reduces fraud
+2. Enables re-use of data both within and across discipline boundaries, enabling new interdisciplinary data-driven research
+3. Discovery facilitates new collaboration between research groups
+4. A discipline of openness encourages clear and unambiguous practice (data must be well-documented before it can be released!)
+5. Re-use of data increases citations and evidence of impact
+6. Increases efficiency of research by reducing both data collection costs and the possibility of duplication
 
-
-* culture of openness deters fraud, encourages learning from mistakes as well as from successes, and breaks down barriers to interdisciplinary and ‘citizen science’ research (DCC)
-* availability of the data, alongside associated tools and protocols, increases the efficiency of research by reducing both data collection costs and the possibility of duplication (DCC)
-* potential to increase the impact of the research, not only academically, but also economically and socially
 
 * Improves research effectiveness: Faster information/data access [reduced latency], support for data publication & citation, new research/research funding, data training materials, improved research tools. Less time spent managing data, more time for research, producing more value.
-Builds capacity for supporting larger research projects.					
+Builds capacity for supporting larger research projects. 			
 * Research support efficiencies: Cost savings such as increased service productivity or data re-use, freeing up researchers from support tasks e.g. back-up, re-use of data management plans.
 Improvements to quality of bids, potential for increased grant income.
 * Student as Producer: Unreasonable to expect students to collect and analyse primary data in short courses. Allows students to work on genuine, existing research problems. Direct examples of good science.
