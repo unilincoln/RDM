@@ -22,9 +22,9 @@ However, there are a number of applications which will be of general use during 
 
 	<div class="span4">
 	
-		<h4>Research Data Training</h4>
+		<h4>Research data training</h4>
 		
-		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln. Workshops are offered to academic staff through the HR training programme.</p>
+		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln. Workshops are offered to staff through the HR training programme.</p>
 		
 		<p><a class="btn" href="https://orbital.lincoln.ac.uk/training-introduction"><i class="icon-chevron-right"></i> Go to the training materials</a></p>
 		
@@ -50,43 +50,44 @@ However, there are a number of applications which will be of general use during 
 	
 		<h2><i class="icon-pencil"></i> During Your Research</h2>
 		
-		<p>Throughout your research project you should be managing your research data. These tools work with you to keep your data safe and organised.</p>
+		<p>Throughout your research project you will be expected to store and describe/document your research data appropriately and safely, as well as record your research findings. These tools help you to keep your work safe and organised.</p>
 	
 	</div>
 			
 </div>
 
 <div class="row">
-			
+
 	<div class="span4">
 	
-		<h4>Blogs</h2>
+		<h4>Researcher Dashboard</h4>
 		
-		<p>The University's Blogs system is the best place for you to record what you're working on, be that in the form of a traditional 'journal-like' blog, a website explaining what you're doing, a private lab notebook or more. You can give other members of your research team the ability to add, edit and approve content as well, and there's even a social network built in to let you discuss things.</p>
+		<p>By <a href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F">signing in</a> to this site, you can see an overview of your research activity at the University of Lincoln, including funded projects recorded in the AMS. You can also record details of <em>un</em>funded projects, edit your staff profile and research interests, see details of publications held in the Lincoln Repository.</p>
 		
-		<p><a class="btn" href="http://blogs.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to Blogs</a></p>
+		<p><a class="btn" href="https://orbital.lincoln.ac.uk/signin?destination=https%3A%2F%2Forbital.lincoln.ac.uk%2F"><i class="icon-chevron-right"></i> Sign in</a></p>
 		
 	</div>
-	
+
 	<div class="span4">
 	
-		<h4>Git <small>(Coming Soon)</small></h4>
-		
-		<p>Git is a source management system which lets you track changes to your code, documents or other resources over time. You can step backwards to previous versions with ease, see exactly who made a change, and even clone and merge resources as team members work on different things.</p>
-		
-		<p><a href="/contact" class="btn"><i class="icon-chevron-right"></i> Contact us about Git</a></p>
-		
-	</div>
-	
-	<div class="span4">
-	
-		<h4>CKAN <small>Alpha</small></h4>
+		<h4>CKAN</h4>
 		
 		<p>CKAN is being provided as part of the Orbital project to catalogue and archive your research data. Once your data is in CKAN it's easily citable by others, as well as being made more visible.</p>
 		
 		<p><a class="btn" href="https://ckan.lincoln.ac.uk/"><i class="icon-chevron-right"></i> Go to CKAN</a> <a href="/contact" class="btn"><i class="icon-chevron-right"></i> Contact us about CKAN</a></p>
 		
 	</div>
+			
+	<div class="span4">
+	
+		<h4>Blogs</h2>
+		
+		<p>The University's blogs system is the best place for you to record what you're working on, be that in the form of a traditional 'journal-like' blog, a website explaining what you're doing, a private lab notebook or more. You can give other members of your research team the ability to add, edit and approve content, and there's even a social network built in to allow discussion of your work.</p>
+		
+		<p><a class="btn" href="http://blogs.lincoln.ac.uk"><i class="icon-chevron-right"></i> Go to the blogs</a></p>
+		
+	</div>
+
 </div>
 
 <hr>
