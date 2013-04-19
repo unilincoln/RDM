@@ -1,77 +1,9 @@
-# <i class="icon-bullhorn"></i> Contact Us
-		
-Feel free to get in touch about your research project, Orbital, how we might be able to help you, or even just to say hello...
+# Help and support
 
-<div class="row">
-	
-	<div class="span3">
-	
-		<h3><i class="icon-envelope"></i> Email</h3>
-		
-		<p>Always a good way to start a conversation, you can send us an email.</p>
-		
-	</div>
-			
-	<div class="span3">
-	
-		<h3><i class="icon-phone"></i> Phone</h3>
-		
-		<p>If you're more of a talkative type then you can give us a ring.</p>
-	
-	</div>
-	
-	<div class="span3">
-	
-		<h3><i class="icon-user"></i> Face to Face</h3>
-		
-		<p>Rather chat to us in person? Just get in touch with us any of the other ways on this page and we'll figure something out.</p>
-	
-	</div>
-	
-	<div class="span3">
-		
-		<h3><i class="icon-twitter"></i> Twitter</h3>
-	
-		<p>If you've got a quick question or just want to say hi, why not drop any of us a message on Twitter, or use our hashtag <b>#OrbitalMRD</b>?</p>
-						
-	</div>
-			
-</div>
+Further advice and help on working with research data is available from a number of different departments of the University:
 
-<hr>
-	
-<table class="table table-striped">
-	<thead>
-		<tr><th>Who</th><th>What</th><th>Email</th><th>Phone</th><th>Twitter</th></tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Joss Winn</td>
-			<td>Project Manager</td>
-			<td><a href="mailto:jwinn@lincoln.ac.uk">jwinn@lincoln.ac.uk</a></td>
-			<td><a href="tel:+441522886075">01522 886075</a></td>
-			<td><a href="http://twitter.com/josswinn">@josswinn</a></td>
-		</tr>
-		<tr>
-			<td>Nick Jackson</td>
-			<td>Lead Developer</td>
-			<td><a href="mailto:nijackson@lincoln.ac.uk">nijackson@lincoln.ac.uk</a></td>
-			<td><a href="tel:+441522886570">01522 886570</a></td>
-			<td><a href="http://twitter.com/jacksonj04">@jacksonj04</a></td>
-		</tr>
-		<tr>
-			<td>Harry Newton</td>
-			<td>Developer</td>
-			<td><a href="mailto:hnewton@lincoln.ac.uk">hnewton@lincoln.ac.uk</a></td>
-			<td><a href="tel:+441522886178">01522 886178</a></td>
-			<td><a href="http://twitter.com/jh_newton">@jh_newton</a></td>
-		</tr>
-		<tr>
-			<td>Paul Stainthorp</td>
-			<td>Lead Researcher</td>
-			<td><a href="mailto:pstainthorp@lincoln.ac.uk">pstainthorp@lincoln.ac.uk</a></td>
-			<td><a href="tel:+441522886193">01522 886193</a></td>
-			<td><a href="http://twitter.com/pstainthorp">@pstainthorp</a></td>
-		</tr>
-	</tbody>
-</table>
+> For help with research funding opportunities, grant writing, Data Management Planning (DMP), and funders' research data policies, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).
+<br> <br>
+> For advice on data search and discovery, data preservation and curation, data publishing and citation, and licences for sharing data, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/), or email [eprints@lincoln.ac.uk](mailto:eprints@lincoln.ac.uk)
+<br> <br>
+> For assistance with file storage, backing up data, software formats and tools for working with your data, please contact [ICT Services](http://support.lincoln.ac.uk/).

@@ -2,7 +2,7 @@
 
 The following suite of training materials have been developed at the University of Lincoln by the [Orbital project](http://orbital.blogs.lincoln.ac.uk/) up to March 2013. They provide an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln.
 
-> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/training-help).
+> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/contact).
 
 Please use the links below to read about the different aspects of research data management:
 
@@ -18,4 +18,4 @@ Please use the links below to read about the different aspects of research data 
 ## 10. [Licences for sharing your data](https://orbital.lincoln.ac.uk/training-licences)
 ## 11. [Data curation and preservation](https://orbital.lincoln.ac.uk/training-preservation)
 ## 12. [Workshops and training events](https://orbital.lincoln.ac.uk/training-workshops)
-## 13. [Help and support](https://orbital.lincoln.ac.uk/training-help)
+## 13. [Help and support](https://orbital.lincoln.ac.uk/contact)

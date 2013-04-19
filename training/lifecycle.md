@@ -2,9 +2,9 @@
 
 The research data lifecycle diagrams (below) are a useful reminder of the stages involved in working with research data throughout its life.
 
-> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/training-help).
+> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/contact).
 
-Some of the stages involved in research data management (creation, processing, analysis) are wholly the domain of researchers and research groups in the Colleges. In the other stages (planning, preservation, storage, publication/citation), you can request support from [various departments of the University](https://orbital.lincoln.ac.uk/training-help) (Research & Enterprise Development, the Library, ICT Services).
+Some of the stages involved in research data management (creation, processing, analysis) are wholly the domain of researchers and research groups in the Colleges. In the other stages (planning, preservation, storage, publication/citation), you can request support from [various departments of the University](https://orbital.lincoln.ac.uk/contact) (Research & Enterprise Development, the Library, ICT Services).
 
 ## UK Data Archive research data lifecycle
 

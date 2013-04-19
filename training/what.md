@@ -2,7 +2,7 @@
 
 This page provides links to useful, practical definitions of research data, and examples of the types of material that are commonly understood as research data.
 
-> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/training-help).
+> For general advice on working with research data, please [see the help section](https://orbital.lincoln.ac.uk/contact).
 
 When we talk about research 'data', we are not *only* referring to quantitative, tabular, 'hard-scientific' data, but to any material which is required to revalidate the results of research. The [University of Lincoln Research Data Management Policy](https://orbital.lincoln.ac.uk/rdm-policy) does not specify any limited definition of research data: individual researchers are best placed to ensure that they meet the [expectations of their funders](https://orbital.lincoln.ac.uk/training-policies) and their research communities.
 
