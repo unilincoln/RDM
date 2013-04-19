@@ -2,7 +2,7 @@
 
 The University of Lincoln wishes to support researchers by providing you with appropriate software tools in order to undertake your research. We recognise that each research discipline will have specialist tools appropriate to its own needs.
 
-However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides access to a number of such tools which are recommended (in some cases *required*) by the University of Lincoln.
+However, there are a number of applications which will be of general use during the planning, research, and publication stages of your work, irrespective of research discipline. This page provides access to a number of such tools which are recommended (in some cases <em>required</em>) by the University of Lincoln.
 
 ## <i class="icon-check"></i> Before You Start
 		
@@ -14,7 +14,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h4>Awards Management System</h4>
 		
-		<p>If you are applying for funding for your project, you are required to use the University's Awards Management System (AMS) to construct, record and budget the details of your project. For unfunded projects, use of the AMS is not required. For help with the AMS, please contact [Research & Enterprise Services](http://research.blogs.lincoln.ac.uk/).</p>
+		<p>If you are applying for funding for your project, you are required to use the University's Awards Management System (AMS) to construct, record and budget the details of your project. For unfunded projects, use of the AMS is not required.</p>
 		
 		<p><a class="btn" href="https://ams.lincoln.ac.uk/"><i class="icon-chevron-right"></i> Go to the AMS</a></p>
 		
@@ -34,7 +34,7 @@ However, there are a number of applications which will be of general use during 
 	
 		<h4>Data Management Planning (DMP)</h4>
 		
-		<p>Research funders increasingly expect grant-holders to develop and implement Data Management Plans (DMPs). The *DMPOnline* tool helps you build and edit your data management plan in line with the requirements of major UK funders.</p>
+		<p>Research funders increasingly expect grant-holders to develop and implement Data Management Plans (DMPs). The <em>DMPOnline</em> tool helps you build and edit your data management plan in line with the requirements of major UK funders.</p>
 		
 		<p><a class="btn" href="https://dmponline.dcc.ac.uk/"><i class="icon-chevron-right"></i> Go to DMPOnline</a> <a class="btn" href="https://dmponline.dcc.ac.uk/"><i class="icon-chevron-right"></i>Learn more &hellip;</a></p>
 		
