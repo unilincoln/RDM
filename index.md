@@ -30,7 +30,7 @@
 		
 		<h3><i class="icon-certificate"></i> Training</h3>
 	
-		<p>The following suite of training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln.</p>
+		<p>These training materials provides an overview of research data management concepts and practices, links to useful external resources, and specific information on using data tools & services at Lincoln.</p>
 		
 		<p><a href="http://orbital.lincoln.ac.uk/training-introduction" class="btn"><i class="icon-chevron-right"></i> Go to training</a></p>
 						
