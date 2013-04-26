@@ -48,15 +48,17 @@ In some circumstances, research data may be subject to requests under Data Prote
 
 ## Licensing
 
-Merely releasing data without making clear their terms of use can be somewhat counter-productive, though. The default legal position on how data may be used in any given context is hard to untangle, not least because different jurisdictions apply different standards of creativity, skill, labour and expense when judging whether copyright or similar rights pertain. The situation is complicated by the fact that different aspects of a database – field values (i.e. the data themselves), field names, the structure and data model for the database, data entry interfaces, visualisations and reports derived from the data – may be treated quite differently.[8]
+All research data that you share or publish should have an appropriate licence applied. This makes it clear to third parties what they are entitled to do with your data, and how you must be cited / credited for its re-use. Releasing data without explicit terms of use can lead to confusion and is counter-productive: poorly-licenced data is less likely to be used to further new research. See also: [Licences for sharing your data](https://orbital.lincoln.ac.uk/training-licences).
 
 ## Citing data and data identifiers
 
-identifiers: http://lncn.eu/ds37
+As is standard academic practice, you will usually be obliged and expected to cite/reference any data that you re-use.
+
+The Researcher Dashboard can be used to formally deposit and publish your own research data for long-term storage and curation in the [Lincoln Repository](http://eprints.lincoln.ac.uk/). Every dataset deposited in this way will receive a [Digital Object Identifier (DOI)](http://en.wikipedia.org/wiki/Digital_object_identifier) for permanent citation. More advice on data citation and linking is [available from the Digital Curation Centre](http://www.dcc.ac.uk/resources/briefing-papers/introduction-curation/data-citation-and-linking).
 
 ## Tools for publishing research data
 
-The University of Lincoln provides two main tools which
+The University of Lincoln provides two main platforms which can help you to share and publish research data: [CKAN](http://ckan.lincoln.ac.uk/) and the [Lincoln Repository](http://eprints.lincoln.ac.uk/). Alternatively it may be more appropriate for you to host and publish your data using a third-party system.
 
 ### CKAN: [http://ckan.lincoln.ac.uk/](http://ckan.lincoln.ac.uk/)
 
@@ -68,15 +70,19 @@ You can use CKAN:
 * to store and manipulate the data itself
 * to share access to your data with people inside and outside the University of Lincoln.
 
-Using the "[My Projects](https://orbital.lincoln.ac.uk/projects)" section of the Researcher Dashboard, you can automatically generate datasets for projects held in the University's [Awards Management System (AMS)](https://ams.lincoln.ac.uk/)
-
-<!--- More information about CKAN is available in this help guide. -->
+Using the "[My Projects](https://orbital.lincoln.ac.uk/projects)" section of the Researcher Dashboard, you can automatically generate datasets for projects held in the University's [Awards Management System (AMS)](https://ams.lincoln.ac.uk/).
 
 ###  The Lincoln Repository: [http://eprints.lincoln.ac.uk/](http://eprints.lincoln.ac.uk/)
 
-<!--- More information about the Lincoln Repository is available in this help guide. -->
+The Lincoln Repository is used to record details of *all* University research outputs: articles, conference papers, *etc.* The University requires all outputs to be recorded here, and the Repository is used to report (internally and externally) on research activity. It also populates your staff profile on the web with a list of your publications. An Open Access (OA) copy of each paper can be deposited for each of your outputs: this helps improve visibility and citation of your work, and is required by all the major research funding bodies.
 
-Depending on your discipline, the nature of your research, and the type of data you hold, it may be more appropriate for you to host and publish your data using a third-party system. Please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/) for advice. A [Data Management Plan (DMP)](https://orbital.lincoln.ac.uk/training-dmp) can help you understand the best place to host and publish your data.
+The Researcher Dashboard can be used to formally deposit and publish your research data for long-term storage and curation in the [Lincoln Repository](http://eprints.lincoln.ac.uk/). This may be [required by your funder](https://orbital.lincoln.ac.uk/training-policies). Every dataset deposited in this way will receive a [Digital Object Identifier (DOI)](http://en.wikipedia.org/wiki/Digital_object_identifier) for permanent citation.
+
+### Other data publishing platforms
+
+Depending on your discipline, the nature of your research, and the type of data you hold, it may be more appropriate for you to host and publish your data using a third-party system. Please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/) for advice.
+
+Many [data search and discovery tools](https://orbital.lincoln.ac.uk/training-discovery) double-up as data publishing platforms. A [Data Management Plan (DMP)](https://orbital.lincoln.ac.uk/training-dmp) can help you understand the best place to host and publish your data.
 
 ## See also:
 
