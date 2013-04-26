@@ -6,4 +6,4 @@ The Researcher Dashboard can be used to formally deposit and publish your resear
 
 > For advice on long-term preservation and management of data, please contact [your Academic Subject Librarian](http://library.lincoln.ac.uk/home/learning-development/academic-subject-librarians/contact-your-academic-subject-librarian/), or email [eprints@lincoln.ac.uk](mailto:eprints@lincoln.ac.uk)
 
-More advice on data preservation and curation is [available from the Digital Curation Centre](http://www.dcc.ac.uk/digital-curation/what-digital-curation).
+More advice on data preservation and curation is [available from the Digital Curation Centre](http://www.dcc.ac.uk/digital-curation/what-digital-curation), including a "[lifecycle ](https://orbital.lincoln.ac.uk/training-lifecycle)" model for individual and institutional curation of data.
