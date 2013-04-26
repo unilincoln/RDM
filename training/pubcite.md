@@ -20,15 +20,12 @@ There are many additional reasons why releasing/publishing data can be in a rese
 
 1. Supports research integrity and verification of results; improves research governance and integrity; reduces fraud
 2. Enables and stimulates re-use of data both within and across discipline boundaries, enabling new interdisciplinary data-driven research
-3. Discovery facilitates new collaboration between research groups
-4. A discipline of openness encourages clear and unambiguous practice (data must be well-documented before it can be released!)
-5. Re-use of data increases citations and evidence of impact
+3. Allows further value improves the University's standing
+4. Discipline of openness encourages clear and unambiguous practice (data must be well-documented before it can be released!)
+5. Re-use of data increases citations and evidence of impact (possible impact measure in future REF exercises)
 6. Increases efficiency of research by reducing both data collection costs and the possibility of duplication
-7. Makes research and research support more efficient through cost savings and better use of researchers' time
-Improvements to quality of bids, potential for increased grant income
+7. Makes research support more efficient through cost savings and better use of researchers' time
 8. "[Student as Producer](http://studentasproducer.lincoln.ac.uk/)": while it may be unreasonable to expect students to collect and analyse primary data in short courses, open research data allows students to work on genuine, existing research problems
-9. Better dissemination: Enables/increases citation of research data (possible impact measure in future REF)
-10. Greater opportunity for creating further value from data through re-use
 
 ## Legislation
 
