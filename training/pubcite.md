@@ -16,10 +16,10 @@ Most research funding bodies now have Research Data policies which oblige reseac
 
 ## Benefits to sharing/publishing
 
-There are many additional reasons why releasing data can be in a researcher's interests:
+There are many additional reasons why releasing/publishing data can be in a researcher's interests:
 
-1. Open access to data supports research integrity and verification of results; reduces fraud
-2. Enables re-use of data both within and across discipline boundaries, enabling new interdisciplinary data-driven research
+1. Supports research integrity and verification of results; improves research governance and integrity; reduces fraud
+2. Enables and stimulates re-use of data both within and across discipline boundaries, enabling new interdisciplinary data-driven research
 3. Discovery facilitates new collaboration between research groups
 4. A discipline of openness encourages clear and unambiguous practice (data must be well-documented before it can be released!)
 5. Re-use of data increases citations and evidence of impact
@@ -27,16 +27,8 @@ There are many additional reasons why releasing data can be in a researcher's in
 7. Makes research and research support more efficient through cost savings and better use of researchers' time
 Improvements to quality of bids, potential for increased grant income
 8. "[Student as Producer](http://studentasproducer.lincoln.ac.uk/)": while it may be unreasonable to expect students to collect and analyse primary data in short courses, open research data allows students to work on genuine, existing research problems
-10. Metrics and Business Intelligence: Improves the research Information lifecycle and offers improved metrics for researchers and the institution
-11. Improves research governance and integrity.
-12. Integrated research information environment (AMS/RDM/ePrints/Staff
-profiles/Metrics)
-13. Technology Innovation: Enhanced research tools. Better datasets, improved methodologies, etc.Improved support for academic computing
-14. Mitigates risk: Increases security of data; reduces liability
-15. Stimulates collaboration between researchers internally and externally. Opportunities for multi- disciplinary research.
-16. Better dissemination: Enables/increases citation of research data (possible impact measure in future REF)
-17. Greater opportunity for creating further value from data through re-use
-18. Improves IPR oversight and management
+9. Better dissemination: Enables/increases citation of research data (possible impact measure in future REF)
+10. Greater opportunity for creating further value from data through re-use
 
 ## Legislation
 
